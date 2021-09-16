@@ -3,8 +3,6 @@ nav {
 }
 
 nav > a {
-    all: unset;
-    
     display: inline-block;
     
     font-family: sans-serif;
@@ -20,4 +18,8 @@ nav > a {
 a:hover {
     background-color: gainsboro;
     
+}
+
+a:link {
+    text-decoration: none;
 }
