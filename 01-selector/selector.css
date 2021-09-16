@@ -10,6 +10,7 @@
     background-color: #F87171;
 }
 
-#daftar-siswa :hover {
+#daftar-siswa p:hover {
     background-color: #E5E7EB;
 }
+
