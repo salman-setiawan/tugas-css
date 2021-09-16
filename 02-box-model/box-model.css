@@ -1,15 +1,15 @@
-p {
+.siswa {
     margin: 0;
     color: #F3F4F6;
     font-weight: 400;
     font-family: sans-serif;
+    text-transform: capitalize;
     
-    padding-left: 15px;
-    padding-right: 15px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding: 10px 15px;
+
 }
-.daftar-siswa {
+
+#daftar-siswa {
     background-color: #747474;
 }
 
